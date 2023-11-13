@@ -4,4 +4,4 @@
 
 ### Description:
 
-In this project, I am working on developing my knowledge of Git and simple HTML and CSS. 
+In this project, I will develop knowledge of Git and simple HTML and CSS to create and publish a basic, but functional receipes website.
