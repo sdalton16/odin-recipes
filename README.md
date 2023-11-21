@@ -4,4 +4,4 @@
 
 ### Description:
 
-In this project, I will develop knowledge of Git and simple HTML and CSS to create and publish a basic, but functional receipes website.
+This project is a simple website that includes four pages: a home page and three content pages. The website include a simple but functional design with light styling that is uniform across all pages. 
